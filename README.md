@@ -1,11 +1,10 @@
 ## 👏 Hi, I'm *Carson*
-## 22 and love the drums!
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+## 22 and love the drums! Cybersecuirty Major at UTSA
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
-## 🎉 Interests
+## 🎉 Interests Drums, Drawing, Gaming, Music, Food
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
